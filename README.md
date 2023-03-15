@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AppOaze - Mustapha Bouarfa
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Solidity - Crypto World
-- 📫 How to reach me : bouarfamus@gmail.com - +33695337447
+- 📫 How to reach me : bouarfamus@gmail.com - +447915802564
 
 <!---
 AppOaze/AppOaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
